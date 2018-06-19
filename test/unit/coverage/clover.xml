@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1529372494052" clover="3.2.0">
+  <project timestamp="1529372494052" name="All files">
+    <metrics statements="11" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="2" elements="19" coveredelements="3" complexity="0" loc="11" ncloc="11" packages="4" files="6" classes="6">
+      <package name="components">
+        <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
+        <file name="HelloWorld.vue" path="E:\projectText\firstVueDemo\linsFirstVueDemo\src\components\HelloWorld.vue">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="23" count="1" type="stmt"/>
+        </file>
+        <file name="lin1.vue" path="E:\projectText\firstVueDemo\linsFirstVueDemo\src\components\lin1.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="15" count="0" type="stmt"/>
+        </file>
+        <file name="lin2.vue" path="E:\projectText\firstVueDemo\linsFirstVueDemo\src\components\lin2.vue">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="67" count="0" type="stmt"/>
+          <line num="84" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.SvgIcon">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="E:\projectText\firstVueDemo\linsFirstVueDemo\src\components\SvgIcon\index.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="18" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="lin3.vue" path="E:\projectText\firstVueDemo\linsFirstVueDemo\src\views\lin3.vue">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="vuex">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="store.js" path="E:\projectText\firstVueDemo\linsFirstVueDemo\src\vuex\store.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

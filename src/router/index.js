@@ -23,7 +23,6 @@ export default new Router({
       path: '/lin2',
       name: 'lin2',
       component: () => import('@/components/lin2'),
-      /*hidden: true*/
     },
 
     {

@@ -13,6 +13,7 @@
         <router-link to="lin3">lin3</router-link>
       </li>
     </ul>
+    <img src="./../assets/logo.png" alt="">
   </div>
 </template>
 
@@ -21,7 +22,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to My First Vue.js App'
+      msg: 'Welcome to My First Vue.js App',
     }
   },
   created: function () {
