@@ -1,9 +1,9 @@
 # lins-first-vuedemo
 
 > A Vue.js project
--
--vue-cli + router + axios + vuex + elementUI + iconfont and more ...
--
+
+vue-cli + router + axios + vuex + elementUI + iconfont and more ...
+
 
 ## Build Setup
 
